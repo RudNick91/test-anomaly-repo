@@ -1,0 +1,3 @@
+A8 test: same issue key in multiple repos
+DEV-72 fix from secondary repository
+DEV-75 cross-repo development
